@@ -1,2 +1,2 @@
 set environment variable CLASS_VAR equal to astr301_2025
-then run scavenger_hunt program located in your home directory.
+then run the "sh" executable program located in your home directory.
